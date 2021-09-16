@@ -26,7 +26,7 @@
     "@adonisjs/fold": "^4.0.9",
     "@adonisjs/framework": "^5.0.9",
     "@adonisjs/ignitor": "^2.0.8",
-    "@adonisjs/lucid": "^7.2.1",
+    "@adonisjs/lucid": "^7.5.3",
     "@adonisjs/validator": "^5.0.6",
     "archiver": "^5.2.0",
     "child_process": "^1.0.2",
