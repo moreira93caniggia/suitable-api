@@ -32,7 +32,7 @@
     "child_process": "^1.0.2",
     "fs-extra": "^9.1.0",
     "zip-folder": "^1.0.0",
-    "snyk": "^1.459.0"
+    "snyk": "^1.680.0"
   },
   "devDependencies": {},
   "autoload": {
